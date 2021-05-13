@@ -1,0 +1,6 @@
+#We can set files to be ignored 
+#just write the name like in terminal
+
+resources_downloaded_from_web/
+.ipynb_checkpoints
+.DS_Store
